@@ -30,7 +30,7 @@ var j=1;  //contador para controlar el bucle while
 
 
 do{
-    arreglo[j] = prompt("Introduzca un ID o s para salir: ");    
+    arreglo[j] = prompt("Introduzca un ID o 0 (cero) para salir: ");    
     bandera = arreglo[j];
     j++;
 }while(bandera != 0)
