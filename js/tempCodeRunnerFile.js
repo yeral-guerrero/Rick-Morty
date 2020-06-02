@@ -1,0 +1,1 @@
+var identificador = prompt("identifidor de personaje: ")
